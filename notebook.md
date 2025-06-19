@@ -1,4 +1,4 @@
-# 视频课程笔记
+# gomall 视频课程笔记
 ## 00课程介绍
 使用的技术与框架：
 Kitex、MySQL、Consul、OpenTelemetry、Hertz、Redis、NATS、Docker、cwgo、GORM、Prometheus、K8s
